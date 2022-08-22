@@ -1,0 +1,11 @@
+Source: sample
+Section: misc
+Priority: extra
+Maintainer: ChunAn Wu <an.wu@canonical.com>
+Build-Depends: quilt, debhelper (>= 7)
+Standards-Version: 1.0.0
+
+Package: sample-old
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, sample-new
+Description: Just a test sample

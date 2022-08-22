@@ -1,0 +1,21 @@
+This package was debianized by ChunAn Wu <an.wu@canonical.com> on
+Mon, 22 Aug 2022 09:33:45 +0800.
+
+Upstream Author(s):
+
+    ChunAn Wu 
+
+Copyright:
+
+    Copyright (C) 2022 ChunAn Wu
+
+License:
+
+    GPL
+
+The Debian packaging is:
+
+    Copyright (C) 2022 ChunAn Wu <an.wu@canonical.com>
+
+and is licensed under the GPL version 3, 
+see `/usr/share/common-licenses/GPL-3'.

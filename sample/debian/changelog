@@ -1,0 +1,11 @@
+sample (0.2) jammy; urgency=medium
+
+  * this is a trainsition package
+
+ -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 09:29:55 +0800
+
+sample (0.1) jammy; urgency=medium
+
+  * first sample test
+
+ -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 09:06:13 +0800
