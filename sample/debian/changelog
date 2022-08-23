@@ -1,3 +1,9 @@
+sample (0.11) jammy; urgency=medium
+
+  * the newest version on this source name for transition
+
+ -- ChunAn Wu <an.wu@canonical.com>  Tue, 23 Aug 2022 08:37:36 +0800
+
 sample (0.2) jammy; urgency=medium
 
   * this is a trainsition package
