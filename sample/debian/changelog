@@ -1,3 +1,9 @@
+sample (0.12) jammy; urgency=medium
+
+  * change dependency
+
+ -- ChunAn Wu <an.wu@canonical.com>  Tue, 23 Aug 2022 09:57:29 +0800
+
 sample (0.11) jammy; urgency=medium
 
   * the newest version on this source name for transition

@@ -7,5 +7,5 @@ Standards-Version: 1.0.0
 
 Package: sample-old
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, sample-new
+Depends: ${shlibs:Depends}, ${misc:Depends}, samplenew
 Description: Just a test sample
